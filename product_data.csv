@@ -1,0 +1,6 @@
+Product_Full_Name,Product_Short_Name,Profit,Labor_Usage,CNC_Usage,Assembly_Usage,Steel_Usage,Copper_Usage,Demand_Min,Demand_Max,Base_Production
+Electronic Controllers,EC,450,6.0,4.0,3.0,8.0,2.5,10,35,18
+Hydraulic Pumps,HP,600,9.0,7.0,5.0,14.0,1.5,5,25,12
+Conveyor Belts,CB,350,4.5,2.5,2.0,6.0,0.5,15,50,25
+Precision Gears,PG,280,3.0,2.0,1.5,4.0,0.8,20,60,30
+Sensor Modules,SM,520,7.0,5.0,4.0,3.0,3.5,10,40,20
